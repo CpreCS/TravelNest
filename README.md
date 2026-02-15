@@ -1,7 +1,7 @@
 # TravelNest
 
-A modern travel planning application for discovering destinations, saving favorite countries, and organizing detailed trip itineraries.
-You can view the live version here: (https://travelnest-iota.vercel.app/)
+A modern travel planning application for discovering destinations, saving favorite countries, and organizing detailed trip itineraries.  
+**You can view the live version here: (https://travelnest-iota.vercel.app/)**
 
 ## Overview
 
